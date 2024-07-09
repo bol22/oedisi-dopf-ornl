@@ -1,0 +1,10 @@
+helics==3.4.0
+helics-apps==3.4.0
+pydantic
+scipy
+numpy
+fastapi
+uvicorn
+oedisi==2.0.2
+OpenDSSDirect.py[extras]==0.7.0
+pandas

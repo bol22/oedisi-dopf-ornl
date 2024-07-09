@@ -1,0 +1,5 @@
+{
+    "Recorder": "recorder/component_definition.json",
+    "LocalFeeder": "LocalFeeder/component_definition.json",
+    "OptimalPowerFlow": "dopf_federate/component_definition.json"
+}

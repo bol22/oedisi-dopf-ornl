@@ -1,0 +1,14 @@
+{
+    "directory": "dopf_federate",
+    "execute_function": "python opf_federate.py",
+    "static_inputs": [],
+    "dynamic_inputs": [
+        {"type": "PowersReal", "port_id": "powers_real"},   
+        {"type": "PowersImaginary", "port_id": "powers_imag"},
+        {"type": "Topology", "port_id": "topology"}
+    ],
+    "dynamic_outputs": [
+        {"type": "", "port_id": "pv_set"},
+        {"type": "VoltagesMagnitude", "port_id": "opf_voltages_magnitude"}
+    ]
+}

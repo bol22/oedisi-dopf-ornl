@@ -1,0 +1,9 @@
+New PVSystem.7 phases=3 bus1=7 kV=4.16  kVA=50 irrad=1.0 Pmpp=50 PF=0.9  VarFollowInverter=True
+New PVSystem.29 phases=3 bus1=29 kV=4.16 kVA=50 irrad=1.0 Pmpp=50 PF=0.9 VarFollowInverter=True
+New PVSystem.49 phases=3 bus1=49 kV=4.16 kVA=50 irrad=1.0 Pmpp=50 PF=0.9 VarFollowInverter=True
+New PVSystem.55 phases=3 bus1=55 kV=4.16 kVA=50 irrad=1.0 Pmpp=50 PF=0.9 VarFollowInverter=True
+New PVSystem.63 phases=3 bus1=63 kV=4.16 kVA=50 irrad=1.0 Pmpp=50 PF=0.9 VarFollowInverter=True
+New PVSystem.68 phases=1 bus1=68.1 kV=2.40 kVA=50 irrad=1.0 Pmpp=50 PF=0.9 VarFollowInverter=True
+New PVSystem.80 phases=3 bus1=80 kV=4.16 kVA=50 irrad=1.0 Pmpp=50 PF=0.9 VarFollowInverter=True
+New PVSystem.87 phases=3 bus1=87 kV=4.16 kVA=50 irrad=1.0 Pmpp=50 PF=0.9  VarFollowInverter=True
+New PVSystem.113 phases=1 bus1=113.1 kV=2.40 kVA=50 irrad=1.0 Pmpp=50 PF=0.9 VarFollowInverter=True
